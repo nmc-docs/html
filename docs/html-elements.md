@@ -41,8 +41,8 @@ sidebar_position: 2
 ## Thuộc tính, phương thức áp dụng cho Audio/Video Element
 
 - Các thuộc tính sau đây vừa trả về giá trị, vừa có thể dùng để thiết lập giá trị mới
-  - **<video/audioElement>.property** : trả về giá trị
-  - **<video/audioElement>.property = newValue** : thiết lập thuộc tính bằng giá trị mới
+  - **\<video/audioElement\>.property** : trả về giá trị
+  - **\<video/audioElement\>.property = newValue** : thiết lập thuộc tính bằng giá trị mới
 
 :::caution
 
