@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactjs=self.webpackChunkreactjs||[]).push([[40],{8480:t=>{t.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"HTML Tags","slug":"/category/html-tags","permalink":"/html/category/html-tags","sidebar":"tutorialSidebar","navigation":{"next":{"title":"C\xe1c th\u1ebb li\xean quan \u0111\u1ebfn text","permalink":"/html/"}}}}')}}]);
