@@ -26,9 +26,11 @@ sidebar_position: 2
 | `ctrlKey`                         | Trả về `true` nếu phím **CTRL** được nhấn cùng lúc với khi ta click                                                                                                            |
 | `getModifierState(<modifierKey>)` | Trả về true nếu phím "modifierKey" được nhấn hoặc đang Activated<br />Các giá trị mà "modifierKey" có thể nhận: `Alt`, `CapsLock`, `Control`, `NumLock`, `ScrollLock`, `Shift` |
 | `button`                          | Trả về number biểu thị chuột bên nào đã được nhấn<br />`0`: Chuột trái được nhấn<br />`1`: Chuột giữa được nhấn (nhấn ở con lăn chuột)<br />`2`: Chuột phải được nhấn          |
-| `clientX`                         | Trả về**number** là tọa độ theo chiều ngang của con trỏ chuột tính từ đầu Browser Window                                                                                       |
-| `clientY`                         | Trả về**number** là tọa độ theo chiều dọc của con trỏ chuột tính từ đầu Browser Window                                                                                         |
-| `pageX`                           | Trả về**number** là tọa độ theo chiều ngang của con trỏ chuột tính từ đầu Webpage                                                                                              |
-| `pageY`                           | Trả về**number** là tọa độ theo chiều dọc của con trỏ chuột tính từ đầu Webpage                                                                                                |
-| `screenX`                         | Trả về**number** là tọa độ theo chiều ngang của con trỏ chuột tính từ đầu màn hình máy tính của bạn                                                                            |
-| `screenY`                         | Trả về**number** là tọa độ theo chiều dọc của con trỏ chuột tính từ đầu màn hình máy tính của bạn                                                                              |
+| `clientX`                         | Trả về **number** là tọa độ theo chiều ngang của con trỏ chuột tính từ đầu Browser Window                                                                                      |
+| `clientY`                         | Trả về **number** là tọa độ theo chiều dọc của con trỏ chuột tính từ đầu Browser Window                                                                                        |
+| `pageX`                           | Trả về **number** là tọa độ theo chiều ngang của con trỏ chuột tính từ đầu Webpage                                                                                             |
+| `pageY`                           | Trả về **number** là tọa độ theo chiều dọc của con trỏ chuột tính từ đầu Webpage                                                                                               |
+| `screenX`                         | Trả về **number** là tọa độ theo chiều ngang của con trỏ chuột tính từ đầu màn hình máy tính của bạn                                                                           |
+| `screenY`                         | Trả về **number** là tọa độ theo chiều dọc của con trỏ chuột tính từ đầu màn hình máy tính của bạn                                                                             |
+
+![1745335136704](image/mouse-event/1745335136704.png)
