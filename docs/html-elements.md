@@ -33,6 +33,8 @@ sidebar_position: 2
 | `scrollTo({ left: 0, top: 0, behavior: 'smooth' })` | Thực hiện sự kiện scroll lên trên hoặc sang trái tương ứng với số được chỉ định (áp dụng cho phần tử có thể cuộn được).                                                                                                                                                                                                                                                          |
 | `getBoundingClientRect()`                           | Trả về 1 object chứa các thuộc tính sau:<br />`width`: Chiều rộng của phần tử<br />`height`: Chiều cao của phần tử<br />`x` / `left`: Khoảng cách từ mép trái của phần tử đến mép trái của viewport<br />`y` / `top`: Khoảng cách từ mép trên của phần tử đến mép trên của viewport<br />`right`: Là giá trị của `left` + `width`<br />`bottom`: Là giá trị của `top` + `height` |
 
+![1747494273203](image/html-elements/1747494273203.png)
+
 ## Thuộc tính áp dụng cho Input Element
 
 | Property | Return value                                 |
